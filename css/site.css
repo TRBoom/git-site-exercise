@@ -1,4 +1,6 @@
 body {
-    background-color: darkblue;
+    background-color: black;
     color: white;
+    font-size: larger;
+    background-image: url('SARS-CoV-2_without_background.png');
 }
